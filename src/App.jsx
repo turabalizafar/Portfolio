@@ -119,6 +119,7 @@ function App() {
       </div>
       
           </div>
+     
           <footer>
             <map name=""></map>
           </footer>
